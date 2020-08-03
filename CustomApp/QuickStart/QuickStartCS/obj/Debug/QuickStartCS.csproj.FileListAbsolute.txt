@@ -1,0 +1,102 @@
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\QuickStartCS.exe.config
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\QuickStartCS.exe
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\QuickStartCS.pdb
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.dll
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.Ui.Styles.dll
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.WebResourceUtility.dll
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.xml
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.WebResourceUtility.xml
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\obj\Debug\QuickStartCS.exe.config
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\obj\Debug\ExampleLoginForm.baml
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\obj\Debug\ExampleLoginForm.g.cs
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\obj\Debug\QuickStartCS_MarkupCompile.cache
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\obj\Debug\QuickStartCS.g.resources
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\obj\Debug\QuickStartCS.csproj.CoreCompileInputs.cache
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\obj\Debug\QuickStartCS.csproj.CopyComplete
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\obj\Debug\QuickStartCS.exe
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\obj\Debug\QuickStartCS.pdb
+C:\Users\maykul\Desktop\PowerApps-Samples-master\PowerApps-Samples-master\cds\Xrm Tooling\QuickStartCS\QuickStartCS\obj\Debug\QuickStartCS.csprojAssemblyReference.cache
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\obj\Debug\QuickStartCS.exe
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\obj\Debug\QuickStartCS.pdb
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\obj\Debug\QuickStartCS.csprojAssemblyReference.cache
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\obj\Debug\QuickStartCS.exe.config
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\QuickStartCS.exe.config
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\QuickStartCS.exe
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\QuickStartCS.pdb
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.dll
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.Ui.Styles.dll
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.WebResourceUtility.dll
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.xml
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.WebResourceUtility.xml
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\obj\Debug\LoginUX\ExampleLoginForm.baml
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\obj\Debug\LoginUX\ExampleLoginForm.g.cs
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\obj\Debug\QuickStartCS_MarkupCompile.cache
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\obj\Debug\QuickStartCS.g.resources
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\obj\Debug\QuickStartCS.csproj.CoreCompileInputs.cache
+C:\Users\VMASUser\Desktop\Samples\QuickStartCS-SupportUserEnabled\QuickStartCS-SupportUserEnabled\QuickStartCS\obj\Debug\QuickStartCS.csproj.CopyComplete
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\obj\Debug\QuickStartCS.exe
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\obj\Debug\QuickStartCS.pdb
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\QuickStartCS.exe.config
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\QuickStartCS.exe
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\QuickStartCS.pdb
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.dll
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.Ui.Styles.dll
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.WebResourceUtility.dll
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.xml
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Microsoft.Xrm.Tooling.WebResourceUtility.xml
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\obj\Debug\QuickStartCS.csprojAssemblyReference.cache
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\obj\Debug\QuickStartCS.exe.config
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\obj\Debug\LoginUX\ExampleLoginForm.baml
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\obj\Debug\LoginUX\ExampleLoginForm.g.cs
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\obj\Debug\QuickStartCS_MarkupCompile.cache
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\obj\Debug\QuickStartCS.g.resources
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\obj\Debug\QuickStartCS.csproj.CoreCompileInputs.cache
+C:\Users\maykul\Mayur\Tools\Sample\GitHub\cds-powerapps-samples\CustomApp\QuickStart\QuickStartCS\obj\Debug\QuickStartCS.csproj.CopyComplete
